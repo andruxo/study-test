@@ -1,3 +1,4 @@
 cd name(like study-test) -change directory 
 git status-check status
 git push- push to origin
+browser-sync start --server --directory --files "*" - start w browser sync
